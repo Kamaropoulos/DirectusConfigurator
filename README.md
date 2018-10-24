@@ -7,7 +7,7 @@ A simple script that sets up Directus based on a configuration file.
 
 ## Available Options:
 
-`-a` Directus API Hostname to use (defaults to localhost)
+`-h` or `--host` Directus API Hostname to use (defaults to localhost)
 
 `-p` or `--port` Directus API Port to use (defaults to 8080)
 
@@ -17,4 +17,4 @@ A simple script that sets up Directus based on a configuration file.
 
 `--email` Email to connect with into the API (defaults to `admin@admin.com` or use the email found on .env )
 
-`--email` Password to connect with into the API (defaults to `admin` or use the password found on .env )
+`--password` Password to connect with into the API (defaults to `admin` or use the password found on .env )
