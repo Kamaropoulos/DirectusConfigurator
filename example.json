@@ -1,0 +1,15 @@
+{
+    "posts": {
+        "title": {
+            "data_type": "text",
+            "char_length": 100,
+            "ui": "text_input",
+            "comment": ""
+        },
+        "content": {
+            "data_type": "text",
+            "ui": "wysiwyg_full",
+            "comment": ""
+        }
+    }
+}

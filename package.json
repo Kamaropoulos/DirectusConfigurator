@@ -1,0 +1,26 @@
+{
+  "name": "directusconfigurator",
+  "version": "0.0.1",
+  "description": "A simple script that sets up Directus based on a configuration file",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "command-line-args": "^5.0.2",
+    "dotenv": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaropoulos/DirectusConfigurator.git"
+  },
+  "author": "Konstantinos Kamaropoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaropoulos/DirectusConfigurator/issues"
+  },
+  "homepage": "https://github.com/Kamaropoulos/DirectusConfigurator#readme"
+}
