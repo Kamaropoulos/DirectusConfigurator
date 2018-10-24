@@ -8,7 +8,7 @@ const chalk = require('chalk');
 const optionDefinitions = [
     { name: 'verbose', alias: 'v', type: Boolean },
     { name: 'host', alias: 'h', type: String, default_value: "localhost,"},
-    { name: 'port', alias: 'p', type: Number, default_value: "8080"}
+    { name: 'port', alias: 'p', type: Number, default_value: "8080"},
     { name: 'config', alias: 'c', type: String },
     { name: 'email', type: String, alias: 'e' },
     { name: 'password', type: String },
